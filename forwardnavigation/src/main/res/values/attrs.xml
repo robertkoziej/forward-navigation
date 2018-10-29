@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ForwardNavigation">
+        <attr name="fn_inflatedId" format="reference"/>
+        <attr name="fn_layout" format="reference"/>
+        <attr name="fn_id" format="reference"/>
+        <attr name="fn_navigationIndicatorActiveColor" format="color"/>
+        <attr name="fn_navigationIndicatorDefaultColor" format="color"/>
+        <attr name="fn_buttonTextColor" format="color"/>
+        <attr name="fn_backgroundColor" format="color"/>
+        <attr name="fn_lastViewNextButtonText" format="string"/>
+        <attr name="fn_viewCount" format="enum">
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+            <enum name="six" value="6"/>
+            <enum name="seven" value="7"/>
+        </attr>
+        <attr name="fn_currentView" format="integer"/>
+    </declare-styleable>
+</resources>

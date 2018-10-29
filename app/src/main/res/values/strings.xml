@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Forward Navigation Sample</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacus lectus, luctus a mattis sed, ultricies a urna. Praesent nec tristique tortor. Quisque ullamcorper justo eget quam vestibulum luctus.</string>
+
+    <string name="step">Step</string>
+    <string name="next_activity">Next Activity</string>
+
+    <string name="dark_mode">Dark mode</string>
+</resources>

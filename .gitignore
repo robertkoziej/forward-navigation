@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+
+*.apk
+*.ap_
+*.dex
+
+*.class
+.gradle
+
+.idea
+*.iml
+
+# generated files
+bin/
+gen/
+obj/
+apk/
+target/
+build/
+app/libs/**/*.java
+
+# Local configuration file (sdk path, etc)
+local.properties
